@@ -1,10 +1,6 @@
-## psteadman.github.io
+## shreyasrh9.github.io/
 
-Personal website - [http://patricksteadman.ca] or [http://psteadman.github.io] 
-
-### Lanyon by [Mark Otto](https://github.com/mdo)
-
-Lanyon is an unassuming [Jekyll](http://jekyllrb.com) theme that places content first by tucking away navigation in a hidden drawer. It's based on [Poole](http://getpoole.com), the Jekyll butler.
+Personal website - https://shreyasrh9.github.io/ 
 
 ### License
 
