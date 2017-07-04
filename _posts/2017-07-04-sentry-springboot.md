@@ -36,7 +36,7 @@ And the answer is
 
 Below is the link for an example to achieve this
 
-<a href="https://shreyasrh9.github.io/Handsontable-Springboot/">Handsontable - Springboot</a>
+<a href="https://shreyasrh9.github.io/spring-boot-sentry/">Sentry - Springboot</a>
 
 Reference :
 
