@@ -30,3 +30,5 @@ author:
   google_analytics_id: 
   google_analytics_url: 
   bio: 
+
+theme: jekyll-theme-tactile
